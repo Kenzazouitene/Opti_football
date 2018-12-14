@@ -1,17 +1,16 @@
-This is the README for the Subsystem_1
+This is the README for the Maximising the social and economical impact of a football club
 =======
 
-*Example ... Please chage to suit your own system*
 
 
 Main script 
 -------
-The subsystem_1.m MATLAB script should be run
+The social_economical_impact.m MATLAB script should be run entirely
 
 Execution time
 -------
-The execution time is approximately XX seconds
+The execution time is approximately 0.134805 seconds.
 
 Dependencies
 -------
-The script requires only MATLAB_R2018A
+The script requires the add-on symbolicpolynomials, the csv actualstatistics13 as well as MATLAB_R2018b
